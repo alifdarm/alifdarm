@@ -11,6 +11,18 @@ My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematic
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff0000?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
+### Still Learning
+<span>
+<img src="https://developer.android.com/images/brand/Android_Robot.png" height="60">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="60">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="60">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="60">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap logo" height="60">  
+<img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="60"> 
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="60"><t>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="60"> 
+</span>
+
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=alif338&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
