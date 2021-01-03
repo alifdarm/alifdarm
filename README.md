@@ -8,6 +8,7 @@ My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematic
 
 ### My Skills
 <p>
+   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=flat-square&logo=java&logoColor=white" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-4934eb?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff0000?style=flat-square&logo=laravel&logoColor=white" />
