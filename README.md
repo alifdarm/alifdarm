@@ -12,15 +12,14 @@ My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematic
   <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=flat-square&logo=java&logoColor=white" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-4934eb?style=flat-square&logo=php&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-014d00?style=flat-square&logo=django&logoColor=white"/>
-  <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-ffc400?style=flat-square&logo=google+colab&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff0000?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa200?style=flat-square&logo=firebase&logoColor=white"/>
 </p>
 
-### Technology Used
+### My Tools
 <p>
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-black?logo=android+studio&style=for-the-badge"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-black?logo=visual+studio+code&style=for-the-badge"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-black?logo=visual+studio+code&style=for-the-badge"/>
   <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-black?logo=google+colab&style=for-the-badge"/>
 </p>
 
