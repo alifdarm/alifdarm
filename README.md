@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematics Bachelor Degree at Bandung Institute of Technology. 🌱 Now, I’m currently learning : Laravel, The PHP Framework for Web Artisan; and Java programming, that applies to make some of applications. Like : Line Chatbot and Android Apps. 👯 I’m looking to collaborate on Developer Students Club at Bandung Institute of Technology, that I wish to get deeper knowledge about Web dev, Android App dev, and Data Science. 📫 You can reach me on my Linkedin : https://www.linkedin.com/in/muhammad-alif-d-4aaa561a9/. Thank you 😄 
 
-### My Tools/Skills
+### My Tech Stacks
 <p>
    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=flat-square&logo=java&logoColor=white" /> 
@@ -17,18 +17,12 @@ My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematic
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa200?style=flat-square&logo=firebase&logoColor=white"/>
 </p>
 
-### Still Learning
-<span>
-<img src="https://developer.android.com/images/brand/Android_Robot.png" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="60">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="60">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="60">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="60">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap logo" height="60">  
-<img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="60"> 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="60"><t>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="60"> 
-</span>
+### Technology Used
+<p>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-black?logo=android+studio&style=for-the-badge"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-black?logo=visual+studio+code&style=for-the-badge"/>
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-black?logo=google+colab&style=for-the-badge"/>
+</p>
 
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=alif338&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
