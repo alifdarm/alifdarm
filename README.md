@@ -4,16 +4,19 @@
 
 
 Here are some ideas to get you started:
-My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematics Bachelor Degree at Bandung Institute of Technology. 🌱 Now, I’m currently learning : Laravel, The PHP Framework for Web Artisan; and Java programming, that applies to make some of applications. Like : Line Chatbot and Android Apps. 👯 I’m looking to collaborate on Developer Students Club at Bandung Institute of Technology, that I wish to get deeper knowledge about Web dev, Android App dev, and Data Science. 📫 You can reach me on my Linkedin : https://www.linkedin.com/in/muhammad-alif-d-4aaa561a9/. Thank you 😄 
+My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematics Bachelor Degree at Bandung Institute of Technology. 👯 I’m looking to collaborate on Google Developer Students Club at Bandung Institute of Technology (ITB), that I wish to get deeper knowledge about Web dev, Android App dev, cloud computing, and Data Science. 📫 You can reach me on my Linkedin : https://www.linkedin.com/in/muhammad-alif-d-4aaa561a9/. Thank you 😄 
 
 ### My Tech Stacks
 <p>
-   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=flat-square&logo=java&logoColor=white" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-4934eb?style=flat-square&logo=php&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-014d00?style=flat-square&logo=django&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff0000?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa200?style=flat-square&logo=firebase&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0081cc?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0081cc?style=flat-square&logo=mysql&logoColor=white"/> 
 </p>
 
 ### My Tools
@@ -24,7 +27,7 @@ My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematic
 </p>
 
 ### Gihub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=alif338&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/?username=alif338&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats"></p>
 
 ### Top Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alif338&amp;layout=compact" alt="Top Languages"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alif338" alt="Top Languages"></p>
