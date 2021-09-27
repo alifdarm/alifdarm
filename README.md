@@ -27,7 +27,12 @@ My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematic
 </p>
 
 ### Gihub Stats
-<p><img src="https://github-readme-stats.vercel.app/api/?username=alif338&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats"></p>
+<a href="https://github.com/alif338/readme-overview">
+
+![](https://github.com/alif338/readme-overview/blob/master/generated/overview.svg)
+![](https://github.com/alif338/readme-overview/blob/master/generated/languages.svg)
+
+</a>
 
 ### Top Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alif338" alt="Top Languages"></p>
