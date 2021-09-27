@@ -34,5 +34,5 @@ My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematic
 
 </a>
 
-### Top Languages
+<!-- ### Top Languages -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alif338" alt="Top Languages"></p> -->
