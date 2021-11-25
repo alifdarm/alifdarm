@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematics Bachelor Degree at Bandung Institute of Technology. 👯 I’m looking to collaborate on Google Developer Students Club at Bandung Institute of Technology (ITB), that I wish to get deeper knowledge about Web dev, Android App dev, cloud computing, and Data Science. 📫 You can reach me on my Linkedin : https://www.linkedin.com/in/muhammad-alif-d-4aaa561a9/. Thank you 😄 
 
-### My Tech Stacks
+### Tech Stacks
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
@@ -19,7 +19,7 @@ My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematic
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0081cc?style=flat-square&logo=mysql&logoColor=white"/> 
 </p>
 
-### My Tools
+### Tools
 <p>
   <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-black?logo=android+studio&style=for-the-badge"/></a>
   <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-black?logo=visual+studio+code&style=for-the-badge"/></a>
