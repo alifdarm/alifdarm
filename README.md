@@ -1,11 +1,5 @@
 <p> <img src="https://komarev.com/ghpvc/?username=alif338&color=green" alt="alif338"> </p>
 
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-My name is Muhammad Alif Darmamulia. 🔭 I’m currently studying on Mathematics Bachelor Degree at Bandung Institute of Technology. 👯 I’m looking to collaborate on Google Developer Students Club at Bandung Institute of Technology (ITB), that I wish to get deeper knowledge about Web dev, Android App dev, cloud computing, and Data Science. 📫 You can reach me on my Linkedin : https://www.linkedin.com/in/muhammad-alif-d-4aaa561a9/. Thank you 😄 
-
 ### Tech Stacks
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=flat-square&logo=flutter&logoColor=white" />
