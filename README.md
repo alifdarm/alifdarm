@@ -5,10 +5,14 @@
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=flat-square&logo=java&logoColor=white" /> 
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript&logoColor=f0db4f" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-4934eb?style=flat-square&logo=php&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-014d00?style=flat-square&logo=django&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff0000?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="React.js" src="https://img.shields.io/badge/-React.js-404d59?style=flat-square&logo=react&logoColor=61DAFB" /> 
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=flat-square&logo=express&logoColor=white" /> 
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa200?style=flat-square&logo=firebase&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3fa037?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0081cc?style=flat-square&logo=postgresql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0081cc?style=flat-square&logo=mysql&logoColor=white"/> 
 </p>
