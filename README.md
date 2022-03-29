@@ -32,7 +32,12 @@
   <a href="https://colab.research.google.com/"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-black?logo=google+colab&style=for-the-badge"/></a>
 </p>
 
-### Gihub Stats
+### Portofolio
+| Project Name | Type | Access Link |
+| --- | --- | --- |
+|"Swiping Layangan" App | Mobile Aplication | [Play Store](https://play.google.com/store/apps/details?id=com.ultg.kite_sweeping) |
+| MCF ITB's Website | Web Application | [Home Page](https://mcf-itb-2022.com/) |
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alif338&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <img src="https://github-readme-stats.vercel.app/api?username=alif338&amp;show_icons=true&amp;count_private=true&amp;theme=vue-dark" alt="GitHub Stats">
