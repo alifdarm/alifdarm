@@ -4,16 +4,16 @@
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=for-the-badge&logo=java&logoColor=white" /> <br>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=for-the-badge&logo=java&logoColor=white" /> 
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript&logoColor=f0db4f" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-4934eb?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-014d00?style=for-the-badge&logo=django&logoColor=white"/><br>
+  <img alt="Django" src="https://img.shields.io/badge/-Django-014d00?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff0000?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="React.js" src="https://img.shields.io/badge/-React.js-404d59?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" /> <br>
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" /> 
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa200?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3fa037?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0081cc?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0081cc?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-114f73?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img alt="MySQL" src="https://img.shields.io/badge/-Ruby-262626?style=for-the-badge&logo=ruby&logoColor=ff0000"/> 
 </p>
