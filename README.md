@@ -4,17 +4,18 @@
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=for-the-badge&logo=java&logoColor=white" /> <br>
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript&logoColor=f0db4f" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-4934eb?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-014d00?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/-Django-014d00?style=for-the-badge&logo=django&logoColor=white"/><br>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff0000?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="React.js" src="https://img.shields.io/badge/-React.js-404d59?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" /> <br>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa200?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3fa037?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0081cc?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0081cc?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-114f73?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img alt="MySQL" src="https://img.shields.io/badge/-Ruby-262626?style=for-the-badge&logo=ruby&logoColor=ff0000"/> 
 </p>
 
 ### Plan to Learn
@@ -32,12 +33,10 @@
 </p>
 
 ### Gihub Stats
-<a href="https://github.com/alif338">
 
-![](https://github.com/alif338/readme-overview/blob/master/generated/overview.svg)
-![](https://github.com/alif338/readme-overview/blob/master/generated/languages.svg)
-
-</a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alif338&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <img src="https://github-readme-stats.vercel.app/api?username=alif338&amp;show_icons=true&amp;count_private=true&amp;theme=vue-dark" alt="GitHub Stats">
+ <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alif338&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=vue-dark" alt="GitHub Stats">
 
 <!-- ### Top Languages -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alif338" alt="Top Languages"></p> -->
