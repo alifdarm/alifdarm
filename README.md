@@ -45,3 +45,5 @@
 
 <!-- ### Top Languages -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alif338" alt="Top Languages"></p> -->
+	
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alif338&theme=vue-dark"/>
