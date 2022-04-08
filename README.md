@@ -40,6 +40,10 @@
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alif338&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=alif338&amp;show_icons=true&amp;count_private=true&amp;theme=vue-dark" alt="GitHub Stats">
+</p>
+ 
+ 
  |<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alif338&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=vue-dark" alt="GitHub Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=alif338&theme=vue-dark"/>|
 |---|---|
