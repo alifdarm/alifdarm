@@ -23,6 +23,7 @@
   <img alt="Ethers" src="https://img.shields.io/badge/-Ethers.js-100194?style=for-the-badge&logo=ethers&logoColor=white" />
   <img alt="Web3Js" src="https://img.shields.io/badge/-Web3.js-026fbd?style=for-the-badge&logo=web3&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-545454?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img alt="hardHat" src="https://img.shields.io/badge/-hardhat-ffa200?style=for-the-badge&logo=hardhat&logoColor=white" />
 </p>
 
 ### Tools
