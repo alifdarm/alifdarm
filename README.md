@@ -1,12 +1,18 @@
 <p> <img src="https://komarev.com/ghpvc/?username=alif338&color=green" alt="alif338"> </p>
 
-### Tech Stacks
+### Programming Languages
 <p>
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=for-the-badge&logo=java&logoColor=white" /> 
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript&logoColor=f0db4f" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-4934eb?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-262626?style=for-the-badge&logo=ruby&logoColor=ff0000"/> 
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-444444?style=for-the-badge&logo=dart&logoColor=1fb4e0"/> 
+</p>
+
+### Tech Stacks
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498eb?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-014d00?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ff0000?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="React.js" src="https://img.shields.io/badge/-React.js-404d59?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
@@ -15,13 +21,13 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3fa037?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0081cc?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-114f73?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img alt="MySQL" src="https://img.shields.io/badge/-Ruby-262626?style=for-the-badge&logo=ruby&logoColor=ff0000"/> 
+  <img alt="RoR" src="https://img.shields.io/badge/-RoR-444444?style=for-the-badge&logo=rubyonrails&logoColor=red"/>
 </p>
 
 ### Plan to Learn
 <p>
-  <img alt="Ethers" src="https://img.shields.io/badge/-Ethers.js-100194?style=for-the-badge&logo=ethers&logoColor=white" />
-  <img alt="Web3Js" src="https://img.shields.io/badge/-Web3.js-026fbd?style=for-the-badge&logo=web3&logoColor=white" />
+  <img alt="Ethers" src="https://img.shields.io/badge/-Ethers.js-100194?style=for-the-badge&logo=eth&logoColor=white" />
+  <img alt="Web3" src="https://img.shields.io/badge/-Web3.js-026fbd?style=for-the-badge&logo=web&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-545454?style=for-the-badge&logo=solidity&logoColor=white" />
   <img alt="hardHat" src="https://img.shields.io/badge/-hardhat-ffa200?style=for-the-badge&logo=hardhat&logoColor=white" />
 </p>
