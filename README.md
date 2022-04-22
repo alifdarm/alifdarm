@@ -35,7 +35,7 @@
 ### Tools
 <p>
   <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-black?logo=android+studio&style=for-the-badge"/></a>
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-black?logo=visual+studio+code&style=for-the-badge"/></a>
+  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-blue?logo=visual+studio+code&style=for-the-badge"/></a>
   <a href="https://colab.research.google.com/"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-black?logo=google+colab&style=for-the-badge"/></a>
 </p>
 
