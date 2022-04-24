@@ -4,6 +4,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-eb8334?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-a605e6?style=for-the-badge&logo=kotlin&logoColor=white" /> 
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript&logoColor=f0db4f" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-4934eb?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-262626?style=for-the-badge&logo=ruby&logoColor=ff0000"/> 
@@ -18,10 +19,13 @@
   <img alt="React.js" src="https://img.shields.io/badge/-React.js-404d59?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" /> 
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa200?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-000000?style=for-the-badge&logo=supabase&logoColor=dark-green"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3fa037?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-1c77bd?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0081cc?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-114f73?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img alt="RoR" src="https://img.shields.io/badge/-RoR-444444?style=for-the-badge&logo=rubyonrails&logoColor=red"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img alt="RoR" src="https://img.shields.io/badge/-Ruby_on_Rails-444444?style=for-the-badge&logo=rubyonrails&logoColor=red"/>
+  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-ff8000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ### Plan to Learn
@@ -35,8 +39,14 @@
 ### Tools
 <p>
   <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-black?logo=android+studio&style=for-the-badge"/></a>
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-blue?logo=visual+studio+code&style=for-the-badge"/></a>
-  <a href="https://colab.research.google.com/"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-black?logo=google+colab&style=for-the-badge"/></a>
+  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-black?logo=visual+studio+code&style=for-the-badge"/></a>
+  <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-black?logo=jupyter&style=for-the-badge"/></a>
+  <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-black?logo=replit&style=for-the-badge"/></a> 
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-black?logo=figma&style=for-the-badge"/></a>
+  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-black?logo=trello&style=for-the-badge"/></a>
+  <a href=""><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge"/></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&style=for-the-badge"/></a>
+  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Windows-black?logo=windows&style=for-the-badge"/></a>
 </p>
 
 ### Portofolio
