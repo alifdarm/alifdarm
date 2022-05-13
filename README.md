@@ -30,8 +30,7 @@
 
 ### Plan to Learn
 <p>
-  <img alt="Ethers" src="https://img.shields.io/badge/-Ethers.js-100194?style=for-the-badge&logo=eth&logoColor=white" />
-  <img alt="Web3" src="https://img.shields.io/badge/-Web3.js-026fbd?style=for-the-badge&logo=web&logoColor=white" />
+  <img alt="Web3" src="https://img.shields.io/badge/-Web3-026fbd?style=for-the-badge&logo=web&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-545454?style=for-the-badge&logo=solidity&logoColor=white" />
   <img alt="hardHat" src="https://img.shields.io/badge/-hardhat-ffa200?style=for-the-badge&logo=hardhat&logoColor=white" />
 </p>
@@ -41,12 +40,13 @@
   <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-black?logo=android+studio&style=for-the-badge"/></a>
   <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-black?logo=visual+studio+code&style=for-the-badge"/></a>
   <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-black?logo=jupyter&style=for-the-badge"/></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-black?logo=postman&style=for-the-badge"/></a>
   <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-black?logo=replit&style=for-the-badge"/></a> 
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-black?logo=figma&style=for-the-badge"/></a>
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-black?logo=trello&style=for-the-badge"/></a>
   <a href=""><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge"/></a>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&style=for-the-badge"/></a>
-  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Windows-black?logo=windows&style=for-the-badge"/></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-black?logo=windows&style=for-the-badge"/></a>
 </p>
 
 ### Portofolio
