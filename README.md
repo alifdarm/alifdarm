@@ -1,5 +1,3 @@
-<p> <img src="https://komarev.com/ghpvc/?username=alif338&color=green" alt="alif338"> </p>
-
 ### Programming Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
