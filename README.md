@@ -26,6 +26,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img alt="RoR" src="https://img.shields.io/badge/-Ruby_on_Rails-444444?style=for-the-badge&logo=rubyonrails&logoColor=red"/>
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-ff8000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-4FD1C5?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
 </p>
 
 ### Plan to Learn
