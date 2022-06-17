@@ -37,8 +37,8 @@
 
 ### Tools
 <p>
-  <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-black?logo=android+studio&style=for-the-badge"/></a>
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-black?logo=visual+studio+code&style=for-the-badge&logoColor=22ACF3"/></a>
+  <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-272627?logo=android+studio&style=for-the-badge"/></a>
+  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-272627?logo=visual+studio+code&style=for-the-badge&logoColor=22ACF3"/></a>
   <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-272627?logo=jupyter&style=for-the-badge"/></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-272627?logo=postman&style=for-the-badge"/></a>
   <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-272627?logo=replit&style=for-the-badge"/></a> 
