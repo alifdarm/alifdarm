@@ -33,6 +33,8 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-272627?style=for-the-badge&logo=go" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-272627?style=for-the-badge&logo=vue.js" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-272627?style=for-the-badge&logo=rust" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-272627?style=for-the-badge&logo=cplusplus" />
 </p>
 
 ### Tools
