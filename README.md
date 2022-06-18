@@ -35,6 +35,8 @@
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-272627?style=for-the-badge&logo=vue.js" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-272627?style=for-the-badge&logo=rust" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-272627?style=for-the-badge&logo=cplusplus" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-272627?style=for-the-badge&logo=docker" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-272627?style=for-the-badge&logo=kubernetes" />
 </p>
 
 ### Tools
@@ -47,6 +49,7 @@
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-272627?logo=figma&style=for-the-badge"/></a>
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-272627?logo=trello&style=for-the-badge&logoColor=0172B5"/></a>
   <a href=""><img alt="Git" src="https://img.shields.io/badge/Git-272627?logo=git&style=for-the-badge"/></a>
+  <a href=""><img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-272627?style=for-the-badge&logo=githubactions" /></a>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-272627?logo=linux&style=for-the-badge"/></a>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-272627?logo=windows&style=for-the-badge&logoColor=0CA5E1"/></a>
 </p>
