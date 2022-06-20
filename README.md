@@ -27,7 +27,7 @@
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-272627?style=for-the-badge&logo=chakra-ui"/>
 </p>
 
-### Plan to Learn
+### Currently Learn
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-272627?style=for-the-badge&logo=solidity" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-272627?style=for-the-badge&logo=go" />
