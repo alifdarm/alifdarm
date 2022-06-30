@@ -16,8 +16,8 @@
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-272627?style=for-the-badge&logo=flutter&logoColor=27ADE9" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-272627?style=for-the-badge&logo=django"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-272627?style=for-the-badge&logo=laravel" />
-  <img alt="React.js" src="https://img.shields.io/badge/-React.js-272627?style=for-the-badge&logo=react" /> 
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-272627?style=for-the-badge&logo=express" /> 
+  <img alt="React.js" src="https://img.shields.io/badge/-React-272627?style=for-the-badge&logo=react" /> 
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express-272627?style=for-the-badge&logo=express" /> 
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-272627?style=for-the-badge&logo=firebase"/>
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-272627?style=for-the-badge&logo=supabase"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-272627?style=for-the-badge&logo=mongodb"/>
@@ -27,6 +27,7 @@
   <img alt="RoR" src="https://img.shields.io/badge/-Ruby_on_Rails-272627?style=for-the-badge&logo=rubyonrails"/>
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-272627?style=for-the-badge&logo=tensorflow"/>
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-272627?style=for-the-badge&logo=chakra-ui"/>
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-272627?style=for-the-badge&logo=vite"/>
 </p>
 
 ### Currently Learn
@@ -49,9 +50,9 @@
   <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-272627?logo=replit&style=for-the-badge"/></a> 
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-272627?logo=figma&style=for-the-badge"/></a>
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-272627?logo=trello&style=for-the-badge&logoColor=0172B5"/></a>
-  <a href=""><img alt="Git" src="https://img.shields.io/badge/Git-272627?logo=git&style=for-the-badge"/></a>
-  <a href=""><img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-272627?style=for-the-badge&logo=githubactions" /></a>
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-272627?logo=linux&style=for-the-badge"/></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-272627?logo=git&style=for-the-badge"/></a>
+  <a href="#"><img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-272627?style=for-the-badge&logo=githubactions" /></a>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-272627?logo=ubuntu&style=for-the-badge"/></a>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-272627?logo=windows&style=for-the-badge&logoColor=0CA5E1"/></a>
 </p>
 
@@ -59,7 +60,7 @@
 | Project Name | Type | Access Link |
 | --- | --- | --- |
 |"Swiping Layangan" App | Mobile Aplication | [Play Store](https://play.google.com/store/apps/details?id=com.ultg.kite_sweeping) |
-| MCF ITB's Website | Web Application | [Home Page](https://mcf-itb-2022.com/) |
+| MCF ITB's Website | Web Application | [Home Page](https://www.figma.com/proto/FrPt507bC0IHLI6Gffrjuk/UI-MCF?node-id=1282%3A9085&starting-point-node-id=1282%3A9085) |
 | Kuisioner Mobile | Mobile Appllication | _coming soon_ |
 
 
