@@ -28,6 +28,15 @@
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-272627?style=for-the-badge&logo=tensorflow"/>
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-272627?style=for-the-badge&logo=chakra-ui"/>
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-272627?style=for-the-badge&logo=vite"/>
+  <img alt="Next" src="https://img.shields.io/badge/-Next-272627?style=for-the-badge&logo=next.js"/>
+</p>
+
+### Deployments
+<p>
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-272627?style=for-the-badge&logo=heroku" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-272627?style=for-the-badge&logo=vercel" />
+  <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-272627?style=for-the-badge&logo=googlecloud" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-272627?style=for-the-badge&logo=githubactions" />
 </p>
 
 ### Currently Learn
@@ -45,15 +54,14 @@
 <p>
   <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-272627?logo=android+studio&style=for-the-badge"/></a>
   <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-272627?logo=visual+studio+code&style=for-the-badge&logoColor=22ACF3"/></a>
-  <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-272627?logo=jupyter&style=for-the-badge"/></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-272627?logo=postman&style=for-the-badge"/></a>
-  <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-272627?logo=replit&style=for-the-badge"/></a> 
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-272627?logo=figma&style=for-the-badge"/></a>
-  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-272627?logo=trello&style=for-the-badge&logoColor=0172B5"/></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-272627?logo=git&style=for-the-badge"/></a>
-  <a href="#"><img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-272627?style=for-the-badge&logo=githubactions" /></a>
-  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-272627?logo=ubuntu&style=for-the-badge"/></a>
-  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-272627?logo=windows&style=for-the-badge&logoColor=0CA5E1"/></a>
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-272627?logo=jupyter&style=for-the-badge"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-272627?logo=postman&style=for-the-badge"/>
+  <img alt="Replit" src="https://img.shields.io/badge/Replit-272627?logo=replit&style=for-the-badge"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-272627?logo=figma&style=for-the-badge"/>
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-272627?logo=trello&style=for-the-badge&logoColor=0172B5"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-272627?logo=git&style=for-the-badge"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-272627?logo=ubuntu&style=for-the-badge"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-272627?logo=windows&style=for-the-badge&logoColor=0CA5E1"/>
 </p>
 
 ### Portofolio
