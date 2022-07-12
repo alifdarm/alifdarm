@@ -9,6 +9,7 @@
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-272627?style=for-the-badge&logo=ruby&logoColor=ff0000"/> 
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-272627?style=for-the-badge&logo=dart&logoColor=1fb4e0"/> 
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-272627?style=for-the-badge&logo=solidity" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
 </p>
 
 ### Tech Stacks
@@ -29,6 +30,7 @@
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-272627?style=for-the-badge&logo=chakra-ui"/>
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-272627?style=for-the-badge&logo=vite"/>
   <img alt="Next" src="https://img.shields.io/badge/-Next-272627?style=for-the-badge&logo=next.js"/>
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-272627?style=for-the-badge&logo=vue.js" />
 </p>
 
 ### Deployments
@@ -42,10 +44,8 @@
 ### Currently Learn
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-272627?style=for-the-badge&logo=go" />
-  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-272627?style=for-the-badge&logo=vue.js" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-272627?style=for-the-badge&logo=rust" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-272627?style=for-the-badge&logo=cplusplus" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-272627?style=for-the-badge&logo=rust" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-272627?style=for-the-badge&logo=docker" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-272627?style=for-the-badge&logo=kubernetes" />
 </p>
