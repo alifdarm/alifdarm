@@ -69,7 +69,7 @@
 | --- | --- | --- |
 |"Swiping Layangan" App | Mobile Aplication | [Play Store](https://play.google.com/store/apps/details?id=com.ultg.kite_sweeping) |
 | MCF ITB's Website | Web Application | [Home Page](https://www.figma.com/proto/FrPt507bC0IHLI6Gffrjuk/UI-MCF?node-id=1282%3A9085&starting-point-node-id=1282%3A9085) |
-| Kuisioner Mobile | Mobile Appllication | _coming soon_ |
+| Kuisioner Mobile | Mobile Appllication | [Play Store](https://play.google.com/store/apps/details?id=com.mcn.kusioner_mobile)|
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alif338&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
