@@ -80,3 +80,18 @@
  
  |<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alif338&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=vue-dark" alt="GitHub Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=alif338&theme=vue-dark"/>|
 |---|---|
+
+### Let's get in touch
+<p>
+  <a href='https://stackoverflow.com/users/12650275/muhammad-alif' style='padding-right: 10px;'>
+    <img src='https://www.svgrepo.com/show/306790/stackoverflow.svg' width='60px'/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  <a href='https://www.linkedin.com/in/muhammad-alif-d-4aaa561a9/'>
+    <img src='https://www.svgrepo.com/show/204944/linkedin.svg' width='60px'/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  <a href='https://www.instagram.com/aliefdharm/'>
+    <img src='https://www.svgrepo.com/show/303195/instagram-glyph-1-logo.svg' width='60px'/>
+  </a>
+</p>
