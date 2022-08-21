@@ -26,11 +26,10 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-272627?style=for-the-badge&logo=postgresql"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-272627?style=for-the-badge&logo=mysql"/> 
   <img alt="RoR" src="https://img.shields.io/badge/-Ruby_on_Rails-272627?style=for-the-badge&logo=rubyonrails"/>
-  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-272627?style=for-the-badge&logo=tensorflow"/>
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-272627?style=for-the-badge&logo=chakra-ui"/>
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-272627?style=for-the-badge&logo=vite"/>
   <img alt="Next" src="https://img.shields.io/badge/-Next-272627?style=for-the-badge&logo=next.js"/>
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-272627?style=for-the-badge&logo=vue.js" />
+  <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-272627?style=for-the-badge&logo=vuetify" />
 </p>
 
 ### Deployments
@@ -48,6 +47,7 @@
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-272627?style=for-the-badge&logo=rust" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-272627?style=for-the-badge&logo=docker" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-272627?style=for-the-badge&logo=kubernetes" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-272627?style=for-the-badge&logo=jenkins" />
 </p>
 
 ### Tools
@@ -55,6 +55,7 @@
   <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-272627?logo=android+studio&style=for-the-badge"/></a>
   <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-272627?logo=visual+studio+code&style=for-the-badge&logoColor=22ACF3"/></a>
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-272627?logo=jupyter&style=for-the-badge"/>
+  <img alt="Metamask" src="https://img.shields.io/badge/Metamask-272627?logo=metamask&style=for-the-badge"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-272627?logo=postman&style=for-the-badge"/>
   <img alt="Replit" src="https://img.shields.io/badge/Replit-272627?logo=replit&style=for-the-badge"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-272627?logo=figma&style=for-the-badge"/>
