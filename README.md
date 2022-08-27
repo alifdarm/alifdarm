@@ -85,7 +85,7 @@
 
 ### Let's get in touch
 <p>
-  <a href='https://gitlab.com/alifm26072000' style='padding-right: 10px;'>
+  <a href='https://gitlab.playcourt.id/muhammad_alif_d' style='padding-right: 10px;'>
     <img src='https://www.svgrepo.com/show/341849/gitlab.svg' width='60px'/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
