@@ -1,10 +1,10 @@
 ### Programming Languages
 <p>
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-272627?style=for-the-badge&logo=javascript" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-272627?style=for-the-badge&logo=python"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-272627?style=for-the-badge&logo=java" /> 
   <img alt="Sql" src="https://img.shields.io/badge/-SQL-272627?style=for-the-badge&logo=sql" /> 
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-272627?style=for-the-badge&logo=kotlin" /> 
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-272627?style=for-the-badge&logo=javascript" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-272627?style=for-the-badge&logo=php" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-272627?style=for-the-badge&logo=ruby&logoColor=ff0000"/> 
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-272627?style=for-the-badge&logo=dart&logoColor=1fb4e0"/> 
