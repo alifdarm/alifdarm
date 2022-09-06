@@ -10,6 +10,7 @@
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-272627?style=for-the-badge&logo=dart&logoColor=1fb4e0"/> 
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-272627?style=for-the-badge&logo=solidity" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
+  <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-272627?style=for-the-badge&logo=matlab" />
 </p>
 
 ### Tech Stacks
@@ -38,16 +39,6 @@
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-272627?style=for-the-badge&logo=vercel" />
   <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-272627?style=for-the-badge&logo=googlecloud" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-272627?style=for-the-badge&logo=githubactions" />
-</p>
-
-### Currently Learn
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-272627?style=for-the-badge&logo=go" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-272627?style=for-the-badge&logo=cplusplus" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-272627?style=for-the-badge&logo=rust" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-272627?style=for-the-badge&logo=docker" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-272627?style=for-the-badge&logo=kubernetes" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-272627?style=for-the-badge&logo=jenkins" />
 </p>
 
 ### Tools
