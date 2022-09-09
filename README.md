@@ -16,10 +16,10 @@
 ### Tech Stacks
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-272627?style=for-the-badge&logo=flutter&logoColor=27ADE9" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-272627?style=for-the-badge&logo=django"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-272627?style=for-the-badge&logo=laravel" />
   <img alt="React.js" src="https://img.shields.io/badge/-React-272627?style=for-the-badge&logo=react" /> 
   <img alt="Express.js" src="https://img.shields.io/badge/-Express-272627?style=for-the-badge&logo=express" /> 
+  <img alt="Django" src="https://img.shields.io/badge/-Django-272627?style=for-the-badge&logo=django"/>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-272627?style=for-the-badge&logo=firebase"/>
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-272627?style=for-the-badge&logo=supabase"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-272627?style=for-the-badge&logo=mongodb"/>
