@@ -13,7 +13,7 @@
   <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-272627?style=for-the-badge&logo=matlab" />
 </p>
 
-### Tech Stacks
+### Web Development / Mobile Development
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-272627?style=for-the-badge&logo=flutter&logoColor=27ADE9" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-272627?style=for-the-badge&logo=laravel" />
