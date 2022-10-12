@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alif  
 ### About
-I'am is 7th semester of Mathematics Students at Institut Teknologi Bandung. Currently I worked as Full Stack Developer Intern at [PT Telkom Indonesia](https://www.telkom.co.id/) and a Full Stack Developer Part-time at [PT Mahadata Citra Nusantara](https://kuisioner.com/). Any affairs to me? Please contact me through one of accounts below
+I'am is 7th semester of Mathematics Students at Institut Teknologi Bandung. Currently I worked as Full Stack Developer Intern at [PT Telkom Indonesia](https://www.telkom.co.id/) and a Full Stack Developer Part-time at [PT Mahadata Citra Nusantara](https://kuisioner.com/). Any affairs to me? Please contact me through one of accounts below. Thanks!
 
 ### Programming Languages
 <p>
