@@ -20,21 +20,19 @@ I'am is 7th semester of Mathematics Students at Institut Teknologi Bandung. Curr
 ### Web Development / Mobile Development
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-272627?style=for-the-badge&logo=flutter&logoColor=27ADE9" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-272627?style=for-the-badge&logo=laravel" />
-  <img alt="React.js" src="https://img.shields.io/badge/-React-272627?style=for-the-badge&logo=react" /> 
   <img alt="Express.js" src="https://img.shields.io/badge/-Express-272627?style=for-the-badge&logo=express" /> 
-  <img alt="Django" src="https://img.shields.io/badge/-Django-272627?style=for-the-badge&logo=django"/>
+  <img alt="React.js" src="https://img.shields.io/badge/-React-272627?style=for-the-badge&logo=react" /> 
+  <img alt="Vuetify" src="https://img.shields.io/badge/-Vue-272627?style=for-the-badge&logo=vue.js" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next-272627?style=for-the-badge&logo=next.js"/>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-272627?style=for-the-badge&logo=firebase"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-272627?style=for-the-badge&logo=postgresql"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-272627?style=for-the-badge&logo=mysql"/> 
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-272627?style=for-the-badge&logo=laravel" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-272627?style=for-the-badge&logo=supabase"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-272627?style=for-the-badge&logo=mongodb"/>
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-272627?style=for-the-badge&logo=sqlite"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-272627?style=for-the-badge&logo=postgresql"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-272627?style=for-the-badge&logo=mysql"/> 
   <img alt="RoR" src="https://img.shields.io/badge/-Ruby_on_Rails-272627?style=for-the-badge&logo=rubyonrails"/>
-  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-272627?style=for-the-badge&logo=chakra-ui"/>
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-272627?style=for-the-badge&logo=vite"/>
-  <img alt="Next" src="https://img.shields.io/badge/-Next-272627?style=for-the-badge&logo=next.js"/>
-  <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-272627?style=for-the-badge&logo=vuetify" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-272627?style=for-the-badge&logo=django"/>
 </p>
 
 ### Deployments
