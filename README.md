@@ -17,47 +17,6 @@ I'am is 7th semester of Mathematics Students at Institut Teknologi Bandung. Curr
   <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-272627?style=for-the-badge&logo=matlab" />
 </p>
 
-### Web Development / Mobile Development
-<p>
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-272627?style=for-the-badge&logo=flutter&logoColor=27ADE9" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express-272627?style=for-the-badge&logo=express" /> 
-  <img alt="React.js" src="https://img.shields.io/badge/-React-272627?style=for-the-badge&logo=react" /> 
-  <img alt="Vuetify" src="https://img.shields.io/badge/-Vue-272627?style=for-the-badge&logo=vue.js" />
-  <img alt="Next" src="https://img.shields.io/badge/-Next-272627?style=for-the-badge&logo=next.js"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-272627?style=for-the-badge&logo=firebase"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-272627?style=for-the-badge&logo=postgresql"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-272627?style=for-the-badge&logo=mysql"/> 
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-272627?style=for-the-badge&logo=laravel" />
-  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-272627?style=for-the-badge&logo=supabase"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-272627?style=for-the-badge&logo=mongodb"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-272627?style=for-the-badge&logo=sqlite"/>
-  <img alt="RoR" src="https://img.shields.io/badge/-Ruby_on_Rails-272627?style=for-the-badge&logo=rubyonrails"/>
-  <img alt="Django" src="https://img.shields.io/badge/-Django-272627?style=for-the-badge&logo=django"/>
-</p>
-
-### Deployments
-<p>
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-272627?style=for-the-badge&logo=heroku" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-272627?style=for-the-badge&logo=vercel" />
-  <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-272627?style=for-the-badge&logo=googlecloud" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-272627?style=for-the-badge&logo=githubactions" />
-</p>
-
-### Tools
-<p>
-  <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-272627?logo=android+studio&style=for-the-badge"/></a>
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-272627?logo=visual+studio+code&style=for-the-badge&logoColor=22ACF3"/></a>
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-272627?logo=jupyter&style=for-the-badge"/>
-  <img alt="Metamask" src="https://img.shields.io/badge/Metamask-272627?logo=metamask&style=for-the-badge"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-272627?logo=postman&style=for-the-badge"/>
-  <img alt="Replit" src="https://img.shields.io/badge/Replit-272627?logo=replit&style=for-the-badge"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-272627?logo=figma&style=for-the-badge"/>
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-272627?logo=trello&style=for-the-badge&logoColor=0172B5"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-272627?logo=git&style=for-the-badge"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-272627?logo=ubuntu&style=for-the-badge"/>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-272627?logo=windows&style=for-the-badge&logoColor=0CA5E1"/>
-</p>
-
 ### Portofolio
 | Project Name | Type | Access Link |
 | --- | --- | --- |
