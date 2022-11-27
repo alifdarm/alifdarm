@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alif  
 ### About
-I'am is 7th semester of Mathematics Students at Institut Teknologi Bandung. Currently I worked as Full Stack Developer Intern at [PT Telkom Indonesia](https://www.telkom.co.id/) and a Full Stack Developer Part-time at [PT Mahadata Citra Nusantara](https://kuisioner.com/). Any affairs to me? Please contact me through one of accounts below. Thanks!
+I'am is 7th semester of Mathematics Students at Institut Teknologi Bandung. Currently I worked as Full Stack Developer Intern at [PT Telkom Indonesia](https://www.telkom.co.id/) and a Full Stack Developer Part-time at [PT Mahadata Citra Nusantara](https://kuisioner.com/). I also open for Freelance Full Stack Developer. Any affairs to me? Please contact me through one of accounts below. Thanks!
 
 ### Programming Languages
 <p>
@@ -20,11 +20,11 @@ I'am is 7th semester of Mathematics Students at Institut Teknologi Bandung. Curr
 ### Portofolio
 | Project Name | Type | Access Link |
 | --- | --- | --- |
+| Local Metric Visualizer | Web Application | [Link](https://resolving-set-visualizer.vercel.app/) |
 | dCred | Prototype | [Figma](https://www.figma.com/proto/47dFk31vydPw3SfWEb5dw4/System-Certificate?node-id=24%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A2) |
-| Insurtech SQHIP | Web Aplication | [Home Page](https://insurtech-sqhip.my.id/) |
-| Nobleshare | Web Aplication | [Home Page](https://nobleshare.co.id/) |
+| Insurtech SQHIP | Web Aplication | [Link](https://insurtech-sqhip.my.id/) |
+| Nobleshare | Web Aplication | [Link](https://nobleshare.co.id/) |
 | *Swiping Layangan* | Mobile Aplication | [Play Store](https://play.google.com/store/apps/details?id=com.ultg.kite_sweeping) |
-| MCF ITB's Web | Web Application | [Home Page](https://www.figma.com/proto/FrPt507bC0IHLI6Gffrjuk/UI-MCF?node-id=1282%3A9085&starting-point-node-id=1282%3A9085) |
 | Kuisioner Mobile | Mobile Appllication | [Play Store](https://play.google.com/store/apps/details?id=com.mcn.kusioner_mobile)|
 
 
