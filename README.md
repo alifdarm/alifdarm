@@ -28,7 +28,7 @@ I'am is 7th semester of Mathematics Students at Institut Teknologi Bandung. Curr
 | Kuisioner Mobile | Mobile Appllication | [Play Store](https://play.google.com/store/apps/details?id=com.mcn.kusioner_mobile)|
 
 
-[![Alif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alif338&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alif338&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=alif338&amp;show_icons=true&amp;count_private=true&amp;theme=vue-dark" alt="GitHub Stats">
 </p>
