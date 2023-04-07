@@ -7,7 +7,8 @@ I'am a Fresh Graduate of Mathematics Students at Institut Teknologi Bandung. Cur
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-272627?style=for-the-badge&logo=javascript" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-272627?style=for-the-badge&logo=python"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-272627?style=for-the-badge&logo=java" /> 
-  <img alt="Sql" src="https://img.shields.io/badge/-SQL-272627?style=for-the-badge&logo=sql" /> 
+  <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-272627?style=for-the-badge&logo=postgresql" /> 
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-272627?style=for-the-badge&logo=mysql" /> 
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-272627?style=for-the-badge&logo=kotlin" /> 
   <img alt="Php" src="https://img.shields.io/badge/-Php-272627?style=for-the-badge&logo=php" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-272627?style=for-the-badge&logo=ruby&logoColor=ff0000"/> 
@@ -15,6 +16,15 @@ I'am a Fresh Graduate of Mathematics Students at Institut Teknologi Bandung. Cur
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-272627?style=for-the-badge&logo=solidity" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
   <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-272627?style=for-the-badge&logo=matlab" />
+</p>
+
+### DevOps
+<p>
+  <img alt="Actions" src="https://img.shields.io/badge/-Actions-272627?style=for-the-badge&logo=githubactions" /> 
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-272627?style=for-the-badge&logo=jenkins" /> 
+  <img alt="Rancher" src="https://img.shields.io/badge/-Openshift_Origin-272627?style=for-the-badge&logo=openshift" /> 
+  <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-272627?style=for-the-badge&logo=rancher" /> 
+  <img alt="Vault" src="https://img.shields.io/badge/-Vault-272627?style=for-the-badge&logo=vault" /> 
 </p>
 
 ### Portofolio
