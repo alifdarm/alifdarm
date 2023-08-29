@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Alif  
 ### About
-I am a Fresh Graduate of Mathematics Student at Institut Teknologi Bandung. Currently, I worked as Back End Developer at [Telkom Indonesia](https://www.telkom.co.id/) and I am also side hustling at [PT Mahadata Citra Nusantara](https://kuisioner.com/) as Full Stack Developer. Are any affairs related to freelance jobs to me? Please contact me through one of the accounts below. Thanks!
+I am a Fresh Graduate of Mathematics Student at Institut Teknologi Bandung. Currently, I am pursuing at Back End Developer at [Telkom Indonesia](https://www.telkom.co.id/) and also side hustling at [PT Mahadata Citra Nusantara](https://kuisioner.com/) as Full Stack Developer. Requests for project dev collaboration is very welcome. Please don't hesitate to reach me out. Thanks!
 
 ### Programming Languages
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-272627?style=for-the-badge&logo=javascript" /> 
+  <img alt="golang" src="https://img.shields.io/badge/-Go-272627?style=for-the-badge&logo=go" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-272627?style=for-the-badge&logo=python"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-272627?style=for-the-badge&logo=java" /> 
   <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-272627?style=for-the-badge&logo=postgresql" /> 
