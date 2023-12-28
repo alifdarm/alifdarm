@@ -31,6 +31,7 @@ I am a Fresh Graduate of Mathematics Student at Institut Teknologi Bandung. Curr
 ### Portofolio
 | Project Name | Type | Access Link |
 | --- | --- | --- |
+| (Workday) HRIS App | Web Application | [Link](https://hris-app.alifdarm.web.id/) |
 | Rheina SIMKLINIK | Web Application | [Link](https://rheina.id) |
 | Auto Grader | Web Application | [Link](https://auto-grader.vercel.app/) |
 | Local Metric Visualizer | Web Application | [Link](https://resolving-set-visualizer.vercel.app/) |
