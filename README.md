@@ -23,10 +23,13 @@ I am a Fresh Graduate of Mathematics Student at Institut Teknologi Bandung. Curr
 <p>
   <img alt="Actions" src="https://img.shields.io/badge/-Actions-272627?style=for-the-badge&logo=githubactions" /> 
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-272627?style=for-the-badge&logo=jenkins" /> 
-  <img alt="Rancher" src="https://img.shields.io/badge/-Openshift_Origin-272627?style=for-the-badge&logo=openshift" /> 
+  <img alt="Openshift" src="https://img.shields.io/badge/-Openshift_Origin-272627?style=for-the-badge&logo=openshift" /> 
   <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-272627?style=for-the-badge&logo=rancher" /> 
   <img alt="Vault" src="https://img.shields.io/badge/-Vault-272627?style=for-the-badge&logo=vault" /> 
+  <img alt="Sonarqube" src="https://img.shields.io/badge/-Sonarqube-272627?style=for-the-badge&logo=sonarqube" /> 
 </p>
+
+
 
 ### Portofolio
 | Project Name | Type | Access Link |
