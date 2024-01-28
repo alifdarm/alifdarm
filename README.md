@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alif  
 ### About
-I am a Fresh Graduate of Mathematics Student at Institut Teknologi Bandung. Currently, I am pursuing at Back End Developer at [Telkom Indonesia](https://www.telkom.co.id/) and also side hustling at [PT Mahadata Citra Nusantara](https://kuisioner.com/) as Full Stack Developer. Requests for project dev collaboration is very welcome. Please don't hesitate to reach me out. Thanks!
+I am passionate about developing digital products at Small Medium Enterprise (SME) scale to Enterprise. Currently, I am pursuing a Back End Developer at [Telkom Indonesia](https://www.telkom.co.id/) and also side hustling at [PT Mahadata Citra Nusantara](https://kuisioner.com/) as Full Stack Developer. I want you to know that requests for project dev collaboration are very welcome. Please don't hesitate to reach out. Thanks!
 
 ### Programming Languages
 <p>
