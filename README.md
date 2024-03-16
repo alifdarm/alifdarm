@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alif  
 ### About
-I am passionate about developing digital products at Small Medium Enterprise (SME) scale to Enterprise. Currently, I am pursuing a Back End Developer at [Telkom Indonesia](https://www.telkom.co.id/) and also side hustling at [PT Mahadata Citra Nusantara](https://kuisioner.com/) as Full Stack Developer. I want you to know that requests for project dev collaboration are very welcome. Please don't hesitate to reach out. Thanks!
+I am passionate about developing digital products at Small Medium Enterprise (SME) scale into Enterprise. Currently, I am pursuing as IoT Application Engineer at [CAD-IT Consultants Asia](https://main.cadit.com.sg/) and also side hustling at [PT Mahadata Citra Nusantara](https://kuisioner.com/) as Full Stack Developer. I want you to know that requests for project dev collaboration are very welcome. Please don't hesitate to reach out. Thanks!
 
 ### Programming Languages
 <p>
