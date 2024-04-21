@@ -2,7 +2,7 @@
 ### About
 I am passionate about developing digital products at Small Medium Enterprise (SME) scale into Enterprise. Currently, I am pursuing as IoT Application Engineer at [CAD-IT Consultants Asia](https://main.cadit.com.sg/) and also side hustling at [PT Mahadata Citra Nusantara](https://kuisioner.com/) as Full Stack Developer. I want you to know that requests for project dev collaboration are very welcome. Please don't hesitate to reach out. Thanks!
 
-### Programming Languages
+### Tech & Programming Languages
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-272627?style=for-the-badge&logo=javascript" /> 
   <img alt="golang" src="https://img.shields.io/badge/-Go-272627?style=for-the-badge&logo=go" /> 
@@ -22,6 +22,7 @@ I am passionate about developing digital products at Small Medium Enterprise (SM
 ### DevOps
 <p>
   <img alt="Actions" src="https://img.shields.io/badge/-Actions-272627?style=for-the-badge&logo=githubactions" /> 
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-272627?style=for-the-badge&logo=gitlab" /> 
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-272627?style=for-the-badge&logo=jenkins" /> 
   <img alt="Openshift" src="https://img.shields.io/badge/-Openshift_Origin-272627?style=for-the-badge&logo=openshift" /> 
   <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-272627?style=for-the-badge&logo=rancher" /> 
@@ -31,18 +32,3 @@ I am passionate about developing digital products at Small Medium Enterprise (SM
 
 
 
-### Portofolio
-| Project Name | Type | Access Link |
-| --- | --- | --- |
-| (Workday) HRIS App | Web Application | [Link](https://hris-app.alifdarm.web.id/) |
-| Rheina SIMKLINIK | Web Application | [Link](https://rheina.id) |
-| Auto Grader | Web Application | [Link](https://auto-grader.vercel.app/) |
-| Local Metric Visualizer | Web Application | [Link](https://resolving-set-visualizer.vercel.app/) |
-| dCred | Prototype | [Figma](https://www.figma.com/proto/47dFk31vydPw3SfWEb5dw4/System-Certificate?node-id=24%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A2) |
-| Insurtech SQHIP | Web Aplication | [Link](https://insurtech-sqhip.my.id/) |
-| Nobleshare | Web Aplication | [Link](https://nobleshare.co.id/) |
-| *Swiping Layangan* | Mobile Aplication | [Play Store](https://play.google.com/store/apps/details?id=com.ultg.kite_sweeping) |
-| Kuisioner Mobile | Mobile Appllication | [Play Store](https://play.google.com/store/apps/details?id=com.mcn.kusioner_mobile)|
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alif338.alif338)
