@@ -4,9 +4,10 @@ I am passionate about developing digital products at Small Medium Enterprise (SM
 
 ### Tech & Programming Languages
 <p>
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-272627?style=for-the-badge&logo=javascript" /> 
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
   <img alt="golang" src="https://img.shields.io/badge/-Go-272627?style=for-the-badge&logo=go" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-272627?style=for-the-badge&logo=python"/>
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-272627?style=for-the-badge&logo=javascript" /> 
   <img alt="Java" src="https://img.shields.io/badge/-Java-272627?style=for-the-badge&logo=java" /> 
   <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-272627?style=for-the-badge&logo=postgresql" /> 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-272627?style=for-the-badge&logo=mysql" /> 
@@ -15,7 +16,6 @@ I am passionate about developing digital products at Small Medium Enterprise (SM
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-272627?style=for-the-badge&logo=ruby&logoColor=ff0000"/> 
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-272627?style=for-the-badge&logo=dart&logoColor=1fb4e0"/> 
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-272627?style=for-the-badge&logo=solidity" />
-  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
   <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-272627?style=for-the-badge&logo=matlab" />
 </p>
 
