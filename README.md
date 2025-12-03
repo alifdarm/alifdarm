@@ -1,5 +1,7 @@
 # Hi 👋
 
+I'm a Full Stack Engineer based in [Bandung, Indonesia](https://bandung.go.id/), currently operating in [UTC+7](https://www.timeanddate.com/time/zones/wib).
+
 ### Tech & Programming Languages
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
