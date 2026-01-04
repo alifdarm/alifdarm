@@ -2,7 +2,7 @@
 
 I'm a Full Stack Engineer based in [Bandung, Indonesia](https://bandung.go.id/), currently operating in [UTC+7](https://www.timeanddate.com/time/zones/wib).
 
-### Tech & Programming Languages
+### My current used Tech & Programming Languages
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
   <img alt="golang" src="https://img.shields.io/badge/-Go-272627?style=for-the-badge&logo=go" /> 
@@ -19,7 +19,7 @@ I'm a Full Stack Engineer based in [Bandung, Indonesia](https://bandung.go.id/),
   <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-272627?style=for-the-badge&logo=matlab" />
 </p>
 
-### DevOps
+### DevOps Tools I used
 <p>
   <img alt="Actions" src="https://img.shields.io/badge/-Actions-272627?style=for-the-badge&logo=githubactions" /> 
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-272627?style=for-the-badge&logo=gitlab" /> 
