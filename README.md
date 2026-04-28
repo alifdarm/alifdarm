@@ -7,6 +7,7 @@ I'm a Full Stack Engineer based in [Bandung, Indonesia](https://bandung.go.id/),
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-272627?style=for-the-badge&logo=typescript" />
   <img alt="golang" src="https://img.shields.io/badge/-Go-272627?style=for-the-badge&logo=go" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-272627?style=for-the-badge&logo=python"/>
+  <img alt="Php" src="https://img.shields.io/badge/-Php-272627?style=for-the-badge&logo=php"/>
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-272627?style=for-the-badge&logo=javascript" /> 
   <img alt="Java" src="https://img.shields.io/badge/-Java-272627?style=for-the-badge&logo=java" /> 
   <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-272627?style=for-the-badge&logo=postgresql" /> 
